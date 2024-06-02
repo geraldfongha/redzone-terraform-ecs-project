@@ -1,5 +1,5 @@
 #Environment variables
-region="us-east-1"
+region="london"
 project_name="redzone"
 environment="dev"
 
